@@ -1,0 +1,23 @@
+2020-12-16 18:03:10 DEBUG Logger Initialized
+2020-12-16 18:17:01 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:17:01 INFO Adaptation reactive executor
+2020-12-16 18:17:01 INFO adaptation count 1 15
+2020-12-16 18:21:54 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:54 INFO Adaptation reactive executor
+2020-12-16 18:21:54 INFO adaptation count 1 30
+2020-12-16 18:21:54 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:54 INFO Adaptation reactive executor
+2020-12-16 18:21:54 INFO adaptation count 2 45
+2020-12-16 18:21:54 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:54 INFO Adaptation reactive executor
+2020-12-16 18:21:54 INFO adaptation count 2 60
+2020-12-16 18:21:55 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:55 INFO Adaptation reactive executor
+2020-12-16 18:21:55 INFO adaptation count 2 75
+2020-12-16 18:21:55 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:55 INFO Adaptation reactive executor
+2020-12-16 18:21:55 INFO adaptation count 2 90
+2020-12-16 18:21:55 INFO Inside Adaptation Planner --proactive
+2020-12-16 18:21:55 INFO Adaptation reactive executor
+2020-12-16 18:21:55 INFO adaptation count 2 105
+2020-12-16 18:44:22 DEBUG Logger Initialized

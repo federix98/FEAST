@@ -1,0 +1,80 @@
+2021-01-24 22:43:23 DEBUG Logger Initialized
+2021-01-24 22:50:05 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:50:05 INFO Adaptation reactive executor
+2021-01-24 22:50:05 INFO adaptation count 1 15
+2021-01-24 22:50:08 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:50:09 INFO Adaptation reactive executor
+2021-01-24 22:50:09 INFO adaptation count 2 30
+2021-01-24 22:50:15 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:50:15 INFO Adaptation reactive executor
+2021-01-24 22:50:15 INFO adaptation count 2 45
+2021-01-24 22:50:26 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:50:26 INFO Adaptation reactive executor
+2021-01-24 22:50:26 INFO adaptation count 3 60
+2021-01-24 22:50:36 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:50:37 INFO Adaptation reactive executor
+2021-01-24 22:50:37 INFO adaptation count 4 75
+2021-01-24 22:51:17 DEBUG Logger Initialized
+2021-01-24 22:51:39 DEBUG Logger Initialized
+2021-01-24 22:52:57 DEBUG Logger Initialized
+2021-01-24 22:54:11 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:54:11 INFO Adaptation reactive executor
+2021-01-24 22:54:11 INFO adaptation count 1 15
+2021-01-24 22:54:12 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:54:12 INFO Adaptation reactive executor
+2021-01-24 22:54:12 INFO adaptation count 2 30
+2021-01-24 22:54:12 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:54:12 INFO Adaptation reactive executor
+2021-01-24 22:54:12 INFO adaptation count 2 45
+2021-01-24 22:57:07 DEBUG Logger Initialized
+2021-01-24 22:57:17 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:57:17 INFO Adaptation reactive executor
+2021-01-24 22:57:25 INFO adaptation count 1 15
+2021-01-24 22:57:26 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:57:26 INFO Adaptation reactive executor
+2021-01-24 22:57:32 INFO adaptation count 2 30
+2021-01-24 22:57:33 INFO Inside Adaptation Planner --proactive
+2021-01-24 22:57:33 INFO Adaptation reactive executor
+2021-01-24 22:57:40 INFO adaptation count 2 45
+2021-01-24 23:06:28 DEBUG Logger Initialized
+2021-01-24 23:06:41 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:06:41 INFO Adaptation reactive executor
+2021-01-24 23:06:50 INFO adaptation count 1 15
+2021-01-24 23:06:50 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:06:50 INFO Adaptation reactive executor
+2021-01-24 23:07:24 DEBUG Logger Initialized
+2021-01-24 23:07:52 DEBUG Logger Initialized
+2021-01-24 23:08:10 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:08:10 INFO Adaptation reactive executor
+2021-01-24 23:08:19 INFO adaptation count 1 15
+2021-01-24 23:08:20 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:08:20 INFO Adaptation reactive executor
+2021-01-24 23:08:31 INFO adaptation count 2 30
+2021-01-24 23:08:31 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:08:31 INFO Adaptation reactive executor
+2021-01-24 23:08:43 INFO adaptation count 2 45
+2021-01-24 23:10:07 DEBUG Logger Initialized
+2021-01-24 23:10:19 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:10:19 INFO Adaptation reactive executor
+2021-01-24 23:10:24 INFO adaptation count 1 15
+2021-01-24 23:10:24 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:10:24 INFO Adaptation reactive executor
+2021-01-24 23:20:08 DEBUG Logger Initialized
+2021-01-24 23:20:17 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:20:17 INFO Adaptation reactive executor
+2021-01-24 23:20:48 INFO adaptation count 1 15
+2021-01-24 23:20:48 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:20:48 INFO Adaptation reactive executor
+2021-01-24 23:21:18 INFO adaptation count 2 30
+2021-01-24 23:21:18 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:21:18 INFO Adaptation reactive executor
+2021-01-24 23:22:10 DEBUG Logger Initialized
+2021-01-24 23:22:21 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:22:21 INFO Adaptation reactive executor
+2021-01-24 23:22:21 INFO adaptation count 1 15
+2021-01-24 23:22:22 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:22:22 INFO Adaptation reactive executor
+2021-01-24 23:22:22 INFO adaptation count 2 30
+2021-01-24 23:22:22 INFO Inside Adaptation Planner --proactive
+2021-01-24 23:22:22 INFO Adaptation reactive executor
+2021-01-24 23:22:23 INFO adaptation count 2 45

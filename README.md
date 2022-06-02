@@ -2,6 +2,7 @@
 > A Framework for Evaluating Implementation Architectures of Self-adaptive IoT Systems
 
 This repository is the official implementation of ***FEAST**: A Framework for Evaluating ImplementationArchitectures of Self-adaptive IoT Systems* paper.
+<a href="https://dl.acm.org/doi/10.1145/3477314.3507146">ACM Reference</a>
 
 ## Installation Requirements
 1. Install the latest version of JAVA - https://www.java.com/en/download/
